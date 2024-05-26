@@ -1,4 +1,6 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://tsadmin365.visualstudio.com/ContosoAir/_apis/build/status%2Ftsadmin365.ContosoAir?branchName=master)](https://tsadmin365.visualstudio.com/ContosoAir/_build/latest?definitionId=12&branchName=master)# 
+
+This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
 # Microsoft.Github CI Demo
